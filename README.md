@@ -1,2 +1,2 @@
 # test
-just some test for git login
+just some test for github login
